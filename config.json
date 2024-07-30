@@ -1,0 +1,13 @@
+{
+    "FrameSize": {
+      "XScale": 0.5,
+      "YScale": 0.5
+    },
+    "FramePosition": {
+      "XScale": 0.5,
+      "YScale": 0.5
+    },
+    "FrameBackgroundColor": "0, 0, 0",
+    "FrameBackgroundTransparency": 0.5,
+    "UICornerRadius": 20
+  }
