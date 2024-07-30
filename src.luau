@@ -1,7 +1,7 @@
 local HttpService = game:GetService("HttpService")
 
 local function carregarConfig()
-    local url = ""
+    local url = "https://raw.githubusercontent.com/ArrabalDev/Dev/main/config.json?token=GHSAT0AAAAAACVPZPN2HFIHN5443DD5KQREZVJGYZA"
     local resposta = HttpService:GetAsync(url)
     local config = HttpService:JSONDecode(resposta)
     return config
